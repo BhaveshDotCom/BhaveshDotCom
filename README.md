@@ -1,7 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1a1a2e&height=200&section=header&text=Bhavesh%20Upadhyay&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=55" width="100%"/>
-
+<h3>Hello, World!</h3>
+<h1>I’m <span style="font-style: italic; color: #f6b641;">Bhavesh Upadhyay</span></h1>
 </div>
 
 ```markdown

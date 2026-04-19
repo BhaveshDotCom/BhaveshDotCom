@@ -74,7 +74,7 @@ Exploring <strong>model building</strong>, <strong>data preprocessing</strong>, 
 A snapshot of my coding journey and consistency.
 
 <img height="160" width="100%" src="https://streak-stats.demolab.com/?user=BhaveshDotCom&theme=dark&hide_border=true&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-<img height="160" width="100%" src="https://github-readme-stats.shion.dev/api?username=BhaveshDotCom&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img height="160" width="100%" src="https://github-readme-stats.shion.dev/api?username=BhaveshDotCom&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 <img height="160" width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=BhaveshDotCom&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&ring=A78BFA&fire=F472B6&currStreakLabel=6EE7F7&border_radius=12&bg_color=0d1117" />
 
 </div>

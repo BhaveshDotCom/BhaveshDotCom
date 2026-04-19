@@ -1,5 +1,5 @@
 <div align="center">
-<h3>Hello, World!</h3>
+Hello, World!
 <h1>I’m <span style="font-style: italic; color: #f6b641;">Bhavesh Upadhyay</span></h1>
 </div>
 

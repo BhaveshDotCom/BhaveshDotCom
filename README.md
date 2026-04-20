@@ -72,10 +72,11 @@ Exploring <strong>model building</strong>, <strong>data preprocessing</strong>, 
 <div align="center">
 
 A snapshot of my coding journey and consistency.
+<br/>
 
-<img height="160" width="100%" src="https://streak-stats.demolab.com/?user=BhaveshDotCom&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12&cache_seconds=1800&v=1" />
-<img height="160" width="100%" src="https://github-readme-stats.shion.dev/api?username=BhaveshDotCom&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12&cache_seconds=1800&v=1" />
-<img height="160" width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=BhaveshDotCom&theme=dark&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&bg_color=0d1117&text_color=c9d1d9&border_radius=12&cache_seconds=1800&v=1" />
+<img height="160" width="100%" src="https://streak-stats.demolab.com/?user=bhaveshDotcom&theme=transparent&hide_border=true" />
+<img height="160" width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=bhaveshDotcom&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img height="160" width="100%" src="https://github-readme-stats.shion.dev/api?username=bhaveshDotcom&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
 
 </div>
 

@@ -23,6 +23,8 @@ I’m building a strong foundation in problem-solving and core CS principles, le
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=C&logoColor=F7DF1E)
+
 </div>
 
 <h2 align="center">Problem Solving</h2>

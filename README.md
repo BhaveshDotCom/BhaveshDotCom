@@ -12,7 +12,7 @@ Real understanding begins when you question everything and start from the ground
 <h2 align="center">About</h2>
 
 
-I’m currently grinding **Data Structures & Algorithms** while diving into **Machine Learning**, focused on understanding what’s happening under the hood rather than just surface-level concepts, preparing myself for an AI-driven future.
+I’m currently grinding Data Structures & Algorithms while diving into Machine Learning and backend development, focused on understanding what’s happening under the hood rather than just surface-level concepts, preparing myself for an AI-driven future.
 
 I’m building a strong foundation in problem-solving and core CS principles, learning by breaking down complex ideas and turning them into practical, real-world projects.
 

@@ -1,13 +1,9 @@
 <div align="center">
   <pre>Hello    नमस्ते    Bonjour    こんにちは    Hola    你好    કેમ છો?</pre>
-  <h1>I'm Bhavesh Upadhyay</span></h1>
+  <h1>I'm Bhavesh Upadhyay</h1>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100vh">
+  <br><br>
 </div>
-
-```markdown
-> First-principles thinking
-
-Real understanding begins when you question everything and start from the ground up.
-```
 
 <h2 align="center">About</h2>
 
@@ -15,6 +11,12 @@ Real understanding begins when you question everything and start from the ground
 I’m currently grinding Data Structures & Algorithms while diving into Machine Learning and backend development, focused on understanding what’s happening under the hood rather than just surface-level concepts, preparing myself for an AI-driven future.
 
 I’m building a strong foundation in problem-solving and core CS principles, learning by breaking down complex ideas and turning them into practical, real-world projects.
+
+```markdown
+> First-principles thinking
+
+Real understanding begins when you question everything and start from the ground up.
+```
 
 <h2 align="center">Languages</h2>
 

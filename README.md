@@ -1,7 +1,7 @@
 <div align="center">
   <pre>Hello    नमस्ते    Bonjour    こんにちは    Hola    你好    કેમ છો?</pre>
   <h1>I'm Bhavesh Upadhyay</h1>
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100vh">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
   <br><br>
 </div>
 

@@ -24,6 +24,9 @@ Real understanding begins when you question everything and start from the ground
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=C&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=C%2B%2B&logoColor=1E90FF)
+
+
 
 </div>
 

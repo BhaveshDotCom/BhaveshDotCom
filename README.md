@@ -73,6 +73,7 @@ Exploring <strong>model building</strong>, <strong>data preprocessing</strong>, 
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
 ![ML](https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=tensorflow&logoColor=58a6ff)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-0d1117?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 

@@ -102,7 +102,7 @@ Always open to meaningful conversations and collaborations.
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/bhaveshupadhyay23/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/bhaveshupadhyay256/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/BhaveshDotCom)
 
 </div>

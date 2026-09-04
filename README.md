@@ -87,9 +87,9 @@ Exploring <strong>model building</strong>, <strong>data preprocessing</strong>, 
 A snapshot of my coding journey and consistency.
 <br/>
 
-<img height="160" width="100%" src="https://streak-stats.demolab.com/?user=neuralish&theme=transparent&hide_border=true" />
-<img height="160" width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=neuralish&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-<img height="160" width="100%" src="https://github-readme-stats.shion.dev/api?username=neuralish&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img height="160" width="100%" src="https://streak-stats.demolab.com/?user=bhavesh256&theme=transparent&hide_border=true" />
+<img height="160" width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=bhavesh256&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img height="160" width="100%" src="https://github-readme-stats.shion.dev/api?username=bhavesh256&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
 
 </div>
 
@@ -103,6 +103,6 @@ Always open to meaningful conversations and collaborations.
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/bhaveshupadhyay256/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/neuralish)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/bhavesh256)
 
 </div>
